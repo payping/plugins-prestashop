@@ -3,7 +3,7 @@
  * @package    PayPing payment module
  * @author     Erfan Ebrahimi
  * @copyright  2018  ErfanEbrahimi.ir
- * @version    1.0
+ * @version    1.1
  */
 if (!defined('_PS_VERSION_'))
 	exit ;
