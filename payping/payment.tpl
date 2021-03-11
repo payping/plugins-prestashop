@@ -6,7 +6,7 @@
 <br>
 </a></p>
 
-<form action="{l s='link' mod='payping'}modules/payping/pfunction.php?do=payment" method="post" id="payping" class="hidden">
+<form action="modules/payping/pfunction.php?do=payment" method="post" id="payping" class="hidden">
     <input type="hidden" name="orderId" value="{$orderId}" />
 </form>
 <br><br>
