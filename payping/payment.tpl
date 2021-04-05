@@ -1,7 +1,7 @@
 <!-- PayPing Payment Module -->
 <p class="payment_module">
     <a href="javascript:$('#payping').submit();" title="{l s='Online payment with PayPing' mod='payping'}">
-        <img src="{l s='link' mod='payping'}modules/payping/payping.png" alt="{l s='Online payment with PayPing' mod='payping'}" style="margin: 25px;" />
+        <img src="{l s='link' mod='payping'}modules/payping/payping.png" alt="{l s='Online payment with PayPing' mod='payping'}" style="margin: 25px;width: 45px;height: 45px;" />
 		{l s='Online payment with PayPing site' mod='payping'}
 <br>
 </a></p>
